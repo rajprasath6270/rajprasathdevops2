@@ -1,2 +1,11 @@
 Linux is an operating system.
 I am learning Linux for DevOps.
+Common Linux commands:
+pwd
+ls
+cd
+mkdir
+touch
+cp
+mv
+rm
